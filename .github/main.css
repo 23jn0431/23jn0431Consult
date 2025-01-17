@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background: linear-gradient(to right, #0066cc, #003366);
+    color: white;
+    text-align: center;
+    padding: 2rem 0;
+}
+
+footer {
+    background-color: #003366;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+}
